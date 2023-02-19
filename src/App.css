@@ -15,3 +15,45 @@ main{
 .active{
     border-left: 10px solid #1ADC50;
 }
+
+input {
+    padding: 10px;
+    outline: 0;
+    border: 2px solid gray;
+    border-radius: 20px;
+    background: #fff;
+}
+
+.btns{
+    border: 1px solid #38FF4C;
+    padding: 0 4px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.btnss{
+    border: 1px solid #38FF4C;
+    padding: 0 4px;
+    border-radius: 5px;
+    background: #1ADC50;
+    font-size: 20px;
+}
+
+.porduct-img{
+    width: 50px;
+    height: 50px;
+    background: grey;
+    border-radius: 50px;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+.price{
+    font-size: 14px;
+    color: gray;
+    margin-top: -15px;
+}
+
+.disc{
+    margin-top: -5px;
+    font-size: 12px;
+}
